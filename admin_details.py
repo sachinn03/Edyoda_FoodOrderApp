@@ -1,4 +1,4 @@
-#Admin Functions Class
+#Admin Functions
 
 from admin import Admin_Cred
 from food_items import Food_Items
