@@ -1,4 +1,4 @@
-# This class is used for defining  and settingthe attributes of Food Items
+# This class is used for defining the attributes of Food Items
 
 class Food_Items:
     def __init__(self,food_id,food_name,food_price,food_qty,food_discount,food_stock):
