@@ -1,4 +1,4 @@
-# This class is used for defining and setting the Admin Credtentials
+# This class is used for defining the Admin Credtentials
 
 class Admin_Cred:
     def __init__(self,admin_username,admin_password,admin_first_name,admin_last_name,admin_email,admin_mobileno,admin_address):
