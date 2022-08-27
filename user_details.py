@@ -1,4 +1,4 @@
-#User Functions Class
+#User Functions
 
 from collections import Counter
 from user import User_Cred
