@@ -1,4 +1,4 @@
-# This class is used for defining and setting the User Credtentials
+# This class is used for defining the User Credtentials
 
 class User_Cred:
     def __init__(self,user_username,user_password, user_first_name,user_last_name,user_email,user_mobileno,user_address):
