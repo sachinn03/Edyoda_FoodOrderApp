@@ -1,4 +1,4 @@
-#Main app class
+#Main app 
 import admin_details
 import user_details
 
